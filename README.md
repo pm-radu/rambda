@@ -8542,7 +8542,7 @@ describe('isEmpty', function() {
 isNil(x: any): x is null | undefined
 ```
 
-It returns `true` is `x` is either `null` or `undefined`.
+It returns `true` if `x` is either `null` or `undefined`.
 
 ```javascript
 const result = [
